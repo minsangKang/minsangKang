@@ -25,4 +25,4 @@ Contact<br>
 <a href="mailto:freedeveloper97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/freedeveloper97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/dev_minsang/" target="_blank"><img src="https://img.shields.io/badge/dev_minsang-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@minsang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://minsang-kang.notion.site/54bcd3fd371a4c198a874fe0fa6c4525?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-323232?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://minsang-kang.notion.site/Minsang-Kang-acfb4c24f3ca4a38bcd654024f28ed76?pvs=4" target="_blank"><img src="https://img.shields.io/badge/resume-323232?style=flat-square&logo=Notion&logoColor=white"/></a>
